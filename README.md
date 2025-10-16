@@ -1,2 +1,2 @@
-"# Real-Estate" 
-"# Real-Estate" 
+cd vite-project
+npm run dev
